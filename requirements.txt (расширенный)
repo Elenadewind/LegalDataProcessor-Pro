@@ -1,0 +1,9 @@
+python>=3.9
+pdfminer.six==20230731
+python-docx==0.8.11
+pytesseract==0.3.10
+spacy==3.8.0
+flask==2.3.3
+react==18.2.0
+opencv-python==4.8.0.76
+notary-api-client==1.2.0  # запланировано к реализации в v.1.1
